@@ -1,0 +1,14 @@
+I used Python as tool.
+
+Libraries: numpy, python, seaborne, matplotlib etc
+
+classifiers: Random Forest, Logistic Regression, Randon forest Classifier, KNNs, Naive Bayes,
+SVMs
+
+Cross Validation and Grid search CV to find best combination of Random Forest
+
+Approach :
+		
+Exported Data
+Feature ENgineering was analyzed columns and creating dummies
+Applied models,Grid Search CV	and final model selection.
